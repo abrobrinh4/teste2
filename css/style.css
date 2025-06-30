@@ -1,6 +1,7 @@
 body{
     background-color: rgb(255, 216, 169);
-}
+      }
+
 
 footer{
       background-color: black;
@@ -15,3 +16,17 @@ footer p{
     font-size: 0.6rem;
     margin-top: o.5rem;
 }
+
+#container {
+    display: flex;
+
+    
+}
+
+
+
+.cartao {
+    margin: 1rem 1rem;
+    }
+
+    
